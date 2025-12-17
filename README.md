@@ -10,11 +10,14 @@ I'm a **Full Stack Developer** by profession and an **AI enthusiast** by passion
 
 ### 💼 Professional & Passion Projects
 - 🏢 **Day Job**: Full Stack Developer working with modern web technologies
-- 🎯 **Passion Project**: **@aivue** - AI-powered Vue.js components (open source)
+- 🎯 **Passion Projects**:
+  - **[VueAI](https://github.com/reachbrt/VueAI)** - AI-powered Vue.js components (open source)
+  - **[AIReact](https://github.com/reachbrt/AIReact)** - AI-powered React components (open source)
+  - **[AngularAI](https://github.com/reachbrt/AngularAI)** - AI-powered Angular components (open source)
 - 🤖 **AI Hobby**: Building with **GenAI**, **LLMs**, **LangChain**, **Flowwise**, **n8n**
 - 🌱 **Currently Learning**: Advanced **ML/AI integration**, **multimodal AI systems**, **AI workflows**
 - 👯 **Open Source Contributor**: Passionate about making AI tools accessible to everyone
-- 💬 **Ask me about**: **GenAI**, **LLMs**, **AI Automation**, **Vue.js**, **TypeScript**, **AI Workflows**
+- 💬 **Ask me about**: **GenAI**, **LLMs**, **AI Automation**, **Vue.js**, **React**, **Angular**, **TypeScript**, **AI Workflows**
 - 📫 **Connect**: [LinkedIn](https://www.linkedin.com/in/bharatkumarsubramanian/)
 - ⚡ **Fun fact**: I spend my weekends building AI tools that developers actually want to use!
 
@@ -36,9 +39,10 @@ I'm a **Full Stack Developer** by profession and an **AI enthusiast** by passion
 
 ### 💻 Frontend Development
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### ⚙️ Backend & APIs
@@ -61,27 +65,43 @@ I'm a **Full Stack Developer** by profession and an **AI enthusiast** by passion
 
 ## 🎯 Featured Passion Projects
 
-### 🤖 @aivue - AI-Powered Vue.js Components (Open Source Hobby Project)
-My weekend passion project! A comprehensive ecosystem of AI-powered Vue.js components that make it easy for developers to integrate cutting-edge artificial intelligence into web applications.
+### 🤖 AI-Powered Component Libraries (Open Source Hobby Projects)
+My weekend passion projects! A comprehensive ecosystem of AI-powered components for **Vue.js**, **React**, and **Angular** that make it easy for developers to integrate cutting-edge artificial intelligence into web applications.
 
-**🚀 What makes this special:**
-- 💬 **Multimodal Chatbot** - Image analysis + voice transcription using OpenAI Vision & Whisper
-- 🖼️ **AI Image Caption** - Smart image understanding with GPT-4 Vision
-- 📝 **Smart Forms** - AI-powered validation and auto-completion
-- 🔍 **Auto-suggest** - Intelligent suggestion components
-- 🎯 **Easy Integration** - Drop-in components for any Vue.js app
+| Framework | Repository | Description |
+|-----------|------------|-------------|
+| ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) | **[@aivue](https://github.com/reachbrt/VueAI)** | AI-powered Vue.js components |
+| ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | **[AIReact](https://github.com/reachbrt/AIReact)** | AI-powered React components |
+| ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) | **[AngularAI](https://github.com/reachbrt/AngularAI)** | AI-powered Angular components |
+
+**🚀 Available Components (12 AI-powered components per framework):**
+
+| Component | Description |
+|-----------|-------------|
+| 💬 **chatbot** | Multimodal AI chat with image analysis & voice transcription |
+| 🔍 **autosuggest** | Intelligent AI-powered suggestion components |
+| 📝 **smartform** | AI-powered form validation and auto-completion |
+| 📊 **analytics** | AI-driven analytics and insights dashboard |
+| 🖼️ **image-caption** | Smart image understanding with GPT-4 Vision |
+| ⌨️ **predictive-input** | AI-powered predictive text input |
+| 😊 **emotion-ui** | Emotion-aware UI components |
+| 📄 **doc-intelligence** | AI document processing and analysis |
+| 🔔 **smart-notify** | Intelligent notification system |
+| 🎤 **voice-actions** | Voice command and control components |
+| 📋 **smart-datatable** | AI-enhanced data table with smart features |
+| 🔄 **360-spin** | AI-powered 360° product viewer |
 
 **🛠️ AI Technologies Used:**
 - **GenAI**: OpenAI GPT-4, GPT-4 Vision, Whisper
 - **LLM Integration**: Multi-provider support (OpenAI, Claude, Gemini, Ollama)
 - **ML APIs**: Computer Vision, Speech-to-Text, Natural Language Processing
-- **Frontend**: Vue.js, TypeScript, Vite, Tailwind CSS
+- **Frontend**: Vue.js, React, Angular, TypeScript, Vite, Tailwind CSS
 
 [![NPM](https://img.shields.io/npm/v/@aivue/chatbot?style=flat-square&logo=npm)](https://www.npmjs.com/package/@aivue/chatbot)
 [![Downloads](https://img.shields.io/npm/dm/@aivue/chatbot?style=flat-square)](https://www.npmjs.com/package/@aivue/chatbot)
 [![License](https://img.shields.io/npm/l/@aivue/chatbot?style=flat-square)](https://github.com/reachbrt/vueai/blob/main/LICENSE)
 
-[🚀 Live Demo](https://aivue.netlify.app/) | [📚 Documentation](https://github.com/reachbrt/vueai)
+[🚀 Live Demo](https://aivue.netlify.app/) | [📚 VueAI Docs](https://github.com/reachbrt/VueAI) | [📚 AIReact Docs](https://github.com/reachbrt/AIReact) | [📚 AngularAI Docs](https://github.com/reachbrt/AngularAI)
 
 ## 📊 GitHub Stats
 
@@ -131,12 +151,55 @@ When I'm not at my day job, you'll find me tinkering with the latest AI technolo
 
 All my AI work is open source because I believe in making AI accessible to everyone!
 
-### 📦 Published NPM Packages (Weekend Projects)
-- **[@aivue/chatbot](https://www.npmjs.com/package/@aivue/chatbot)** - Multimodal AI chat with vision & voice
-- **[@aivue/image-caption](https://www.npmjs.com/package/@aivue/image-caption)** - AI image understanding
-- **[@aivue/core](https://www.npmjs.com/package/@aivue/core)** - Multi-provider AI integration
-- **[@aivue/smartform](https://www.npmjs.com/package/@aivue/smartform)** - AI-powered form validation
-- **[@aivue/autosuggest](https://www.npmjs.com/package/@aivue/autosuggest)** - Intelligent auto-completion
+### 📦 Published NPM Packages & Open Source Projects (Weekend Projects)
+
+#### ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) @aivue - [GitHub](https://github.com/reachbrt/VueAI)
+| Package | Description |
+|---------|-------------|
+| [@aivue/chatbot](https://www.npmjs.com/package/@aivue/chatbot) | Multimodal AI chat with vision & voice |
+| [@aivue/autosuggest](https://www.npmjs.com/package/@aivue/autosuggest) | Intelligent auto-completion |
+| [@aivue/smartform](https://www.npmjs.com/package/@aivue/smartform) | AI-powered form validation |
+| [@aivue/analytics](https://www.npmjs.com/package/@aivue/analytics) | AI-driven analytics dashboard |
+| [@aivue/image-caption](https://www.npmjs.com/package/@aivue/image-caption) | AI image understanding |
+| [@aivue/predictive-input](https://www.npmjs.com/package/@aivue/predictive-input) | AI predictive text input |
+| [@aivue/emotion-ui](https://www.npmjs.com/package/@aivue/emotion-ui) | Emotion-aware UI components |
+| [@aivue/doc-intelligence](https://www.npmjs.com/package/@aivue/doc-intelligence) | AI document processing |
+| [@aivue/smart-notify](https://www.npmjs.com/package/@aivue/smart-notify) | Intelligent notifications |
+| [@aivue/voice-actions](https://www.npmjs.com/package/@aivue/voice-actions) | Voice command components |
+| [@aivue/smart-datatable](https://www.npmjs.com/package/@aivue/smart-datatable) | AI-enhanced data table |
+| [@aivue/360-spin](https://www.npmjs.com/package/@aivue/360-spin) | AI-powered 360° viewer |
+
+#### ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) @aireact - [GitHub](https://github.com/reachbrt/AIReact)
+| Package | Description |
+|---------|-------------|
+| [@aireact/chatbot](https://www.npmjs.com/package/@aireact/chatbot) | Multimodal AI chat with vision & voice |
+| [@aireact/autosuggest](https://www.npmjs.com/package/@aireact/autosuggest) | Intelligent auto-completion |
+| [@aireact/smartform](https://www.npmjs.com/package/@aireact/smartform) | AI-powered form validation |
+| [@aireact/analytics](https://www.npmjs.com/package/@aireact/analytics) | AI-driven analytics dashboard |
+| [@aireact/image-caption](https://www.npmjs.com/package/@aireact/image-caption) | AI image understanding |
+| [@aireact/predictive-input](https://www.npmjs.com/package/@aireact/predictive-input) | AI predictive text input |
+| [@aireact/emotion-ui](https://www.npmjs.com/package/@aireact/emotion-ui) | Emotion-aware UI components |
+| [@aireact/doc-intelligence](https://www.npmjs.com/package/@aireact/doc-intelligence) | AI document processing |
+| [@aireact/smart-notify](https://www.npmjs.com/package/@aireact/smart-notify) | Intelligent notifications |
+| [@aireact/voice-actions](https://www.npmjs.com/package/@aireact/voice-actions) | Voice command components |
+| [@aireact/smart-datatable](https://www.npmjs.com/package/@aireact/smart-datatable) | AI-enhanced data table |
+| [@aireact/360-spin](https://www.npmjs.com/package/@aireact/360-spin) | AI-powered 360° viewer |
+
+#### ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) @aspect - [GitHub](https://github.com/reachbrt/AngularAI)
+| Package | Description |
+|---------|-------------|
+| [@aspect/chatbot](https://www.npmjs.com/package/@aspect/chatbot) | Multimodal AI chat with vision & voice |
+| [@aspect/autosuggest](https://www.npmjs.com/package/@aspect/autosuggest) | Intelligent auto-completion |
+| [@aspect/smartform](https://www.npmjs.com/package/@aspect/smartform) | AI-powered form validation |
+| [@aspect/analytics](https://www.npmjs.com/package/@aspect/analytics) | AI-driven analytics dashboard |
+| [@aspect/image-caption](https://www.npmjs.com/package/@aspect/image-caption) | AI image understanding |
+| [@aspect/predictive-input](https://www.npmjs.com/package/@aspect/predictive-input) | AI predictive text input |
+| [@aspect/emotion-ui](https://www.npmjs.com/package/@aspect/emotion-ui) | Emotion-aware UI components |
+| [@aspect/doc-intelligence](https://www.npmjs.com/package/@aspect/doc-intelligence) | AI document processing |
+| [@aspect/smart-notify](https://www.npmjs.com/package/@aspect/smart-notify) | Intelligent notifications |
+| [@aspect/voice-actions](https://www.npmjs.com/package/@aspect/voice-actions) | Voice command components |
+| [@aspect/smart-datatable](https://www.npmjs.com/package/@aspect/smart-datatable) | AI-enhanced data table |
+| [@aspect/360-spin](https://www.npmjs.com/package/@aspect/360-spin) | AI-powered 360° viewer |
 
 ## 🤝 Connect with Me
 
@@ -153,7 +216,10 @@ All my AI work is open source because I believe in making AI accessible to every
 
 ### 🎯 Current Passion Projects
 - 🔬 **AI Workflow Automation**: Building smart n8n and Flowwise workflows for everyday tasks
-- 🚀 **@aivue Ecosystem**: Expanding my weekend AI component library
+- 🚀 **AI Component Libraries**: Expanding my weekend AI component libraries for Vue.js, React & Angular
+  - **@aivue** - Vue.js AI components
+  - **@aireact** - React AI components
+  - **@aspect** - Angular AI components
 - 🦙 **Local LLM Experiments**: Running and fine-tuning models with Ollama
 - 🔗 **LangChain Applications**: Creating intelligent agent pipelines
 - 🤗 **Hugging Face Integrations**: Exploring open-source AI models
