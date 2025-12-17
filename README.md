@@ -119,9 +119,9 @@ My weekend passion projects! A comprehensive ecosystem of AI-powered components 
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=reachbrt&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
+<p align="center">
+  <img src="https://nirzak-trophies.vercel.app/?username=reachbrt&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>
 
 ## 📈 Contribution Graph
 
